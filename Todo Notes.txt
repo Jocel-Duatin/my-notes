@@ -1,0 +1,19 @@
+Research:
+min and max referee in one game
+
+convention in coding
+branching strategies
+
+notifications
+notif incoming game sched
+cancel game with resched date
+invite team in league
+invite player in team
+
+
+each list field validation backend frontend
+
+login figma
+setup my PC
+install go
+install vs code dependency
