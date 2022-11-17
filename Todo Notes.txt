@@ -17,3 +17,23 @@ login figma
 setup my PC
 install go
 install vs code dependency
+
+
+ League Staff and their roles
+Commissioner and co-commissioner (Executive) 
+-	Can manage everything
+Marketing, digital, graphic design and social media (media manager)
+-	Manage social media promotion, change banner and logo, announce postponed game  
+Game scheduler or coordinator(basketball operation)
+-	Manage all on court activities including the development of regular-season and playoff schedules, the management of rule changes, and the enforcement of player conduct standards and discipline
+-	Resolving conflict schedule
+-	Invite team and referee
+Legal
+-	Get permit, managing all legal transactions
+finance and administration (ADMINISTRATIVE STAFF/EXECUTIVE STAFF)
+-	Prepare budget and collect fee – registration and admission
+-	
+Sponsorship or partnership
+-	Find sponsor for league
+
+

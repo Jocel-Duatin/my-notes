@@ -1,0 +1,23 @@
+Ticket flow
+Receive ticket acknowledgement
+	Dear Rachel,
+	This is Jocel and I will be one who will assist you with your request. First, I will coordinate with our UI team with regards to the layout and contents for the landing page. Once that is completed, I will then work on the landing page and apply to the website tomorrow, November 17, 2022 as requested. 
+	
+	Regards,
+	Jocel
+
+Update regarding the task
+	I would like to inform you that your requested page for COC has been applied. Please see the screenshot below.
+Revision
+	I would like to inform you that i already apply the requested changes in the website of chu chu. Please see the screenshot below.
+	Kindly let me know if there is any changes.
+	
+	Regards,
+	Jocel
+
+Wait for the confirmation before close
+	Dear Rachel,
+	If you don't have any request or changes for this ticket I will mark this ticket as done status.
+	
+	Regards,
+	Jocel
