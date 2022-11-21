@@ -21,3 +21,12 @@ Wait for the confirmation before close
 	
 	Regards,
 	Jocel
+
+New update appended to this ticket, currently assigned to Lloyd.
+Dear Rachel,
+As the task is confirmed to have been completed, on behalf of Kate and Jocel, I will now proceed to close this ticket.
+
+If you have further concerns, please feel free to contact us again.
+Thank you,
+Lloyd
+
