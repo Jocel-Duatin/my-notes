@@ -3,3 +3,6 @@ Research:
 
 go fiber recipe
 https://github.com/gofiber/recipes
+
+study mysql
+https://github.com/Djamel02/go-crud-mysql
