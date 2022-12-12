@@ -6,3 +6,62 @@ https://github.com/gofiber/recipes
 
 study mysql
 https://github.com/Djamel02/go-crud-mysql
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+        "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+ <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="description" content="">
+    <title>Password Reset</title>
+    <link rel="shortcut icon" href="skins/favicon.png" title="Favicon">
+<html>
+ 
+ <style>
+    * {
+      box-sizing: border-box;
+    }
+    html,
+    body {
+      padding: 0;
+      margin: 0;
+      font-family: 'Montserrat', sans-serif;
+      font-weight: 300;
+      height: 100%;
+      font-size: 1em;
+   
+     
+    }
+
+    .container{
+      width: 100vw;
+      height: 100vh;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+    }
+    .card{
+      padding: 20px;
+      background-color: aquamarine;
+      width: 500px;
+      height: 480px;
+    }
+    
+     </style>
+</head>
+
+<body>
+  <div class="container">
+      <div class="card">
+        <div>
+          <img src="" alt="">
+        </div>
+        <h3>Password Reset</h3>
+
+      </div>
+  </div>
+
+</body>
+
+</html>
